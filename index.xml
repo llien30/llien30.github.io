@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>llien30&#39;s Blog</title>
+    <title>llien30</title>
     <link>https://llien30.github.io/</link>
-    <description>Recent content on llien30&#39;s Blog</description>
+    <description>Recent content on llien30</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://llien30.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
