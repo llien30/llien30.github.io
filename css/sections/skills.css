@@ -26,6 +26,25 @@
   padding-left: 0.7rem;
 }
 
+.skill-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-box li{
+  display: flex;
+  flex-wrap: wrap;
+  width: 20%;
+  margin: 0 auto 0 auto;
+}
+.skill-icon {
+  color: #248aaa !important;
+  font-size: 50pt;
+}
+
+.skill-name{
+  font-size: 20pt;
+}
+
 /* ============= Device specific fixes ======= */
 
 /* Large screens such as TV */
