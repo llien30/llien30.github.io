@@ -1,0 +1,53 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Graduate Student
+# your company information
+company:
+  name: Keio University
+  url: "https://www.keio.ac.jp/ja/"
+
+summary: 'I am a first year master student majoring in Computer Science at Keio University. My research field is Computer Vision 👀'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mana.smiles@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/llien30"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/feed/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/___mali330"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green
+softSkills:
+- name: Fast Learner
+  percentage: 80
+  color: sky
+- name: Problem Solving
+  percentage: 80
+  color: orange
+- name: Hard Working
+  percentage: 80
+  color: green
+# - name: English
+#   percentage: 60
+#   color: green

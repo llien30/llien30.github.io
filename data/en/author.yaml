@@ -1,0 +1,15 @@
+# some information about you
+name: "Mana Masuda"
+nickname: "Mana Masuda"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/mana.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "mana.smiles[at]gmail.com"
+  phone: "+81 80-5507-3307"
+
+# some summary about what you do
+summary:
+  - I am a 1st year master student at Keio University!
+  - My research field is Computer Vision 👀

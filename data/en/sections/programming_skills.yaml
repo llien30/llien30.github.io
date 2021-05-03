@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Programming Skills
+  id: programming_skills
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "I wrote over 10k lines of codes so far. I also know the detailed specifications."
+  url: "https://www.python.org/"
+- name: PyTorch
+  logo: /images/sections/skills/pytorch.png
+  summary: "For my research in computer vision, I use PyTorch every day to implement models."
+  url: "https://pytorch.org/"
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing shell scripts."
+  url: ""
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "I have experience in team development. I also use Git to manage the code for my research."
+  url: "https://git-scm.com/"
+- name: JavaScript
+  logo: /images/sections/skills/javascript.png
+  summary: "I use JavaScript for front-end development."
+  url: ""
+- name: TypeScript
+  logo: /images/sections/skills/typescript.png
+  summary: "I use TypeScript for front-end development."
+  url: ""
+- name: Nuxt.js
+  logo: /images/sections/skills/nuxt.png
+  summary: "I'm using nuxt.js for front-end development."
+  url: "https://ja.nuxtjs.org/"
+- name: Vue.js
+  logo: /images/sections/skills/vue.png
+  summary: "I'm using vue.js for front-end development."
+  url: "https://jp.vuejs.org/index.html"
+- name: django
+  logo: /images/sections/skills/django.png
+  summary: "I’m using django to develop web applications."
+  url: "https://www.djangoproject.com/"
+

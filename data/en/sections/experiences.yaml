@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: Ridge-i Inc.
+    url: ""
+    # company overview
+    overview: 
+  positions:
+  - designation: Internship
+    start: Nov. 2019
+    end: Mar. 2020
+
+
+- company:
+    name: Google Japan
+    
+  positions:
+  - designation: STEP Development Course 2020
+    start: Apr. 2020
+    end: Jun. 2020
+
+
+- company:
+    name: Mercari Inc.
+    
+  positions:
+  - designation: Build@Mercari 2020
+    start: Apr. 2020
+    end: Jul. 2020

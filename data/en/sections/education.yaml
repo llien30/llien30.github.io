@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: School of Science for Open and Environmental Systems, Center for Information and Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2021-present
+  institution:
+    name: Graduate School of Keio University, Japan
+    url: "#"
+  lab:
+    name: Hyper Vision Research Laboratory (HVRL)
+    supervisor: Hideo Saito
+    url: "http://www.hvrl.ics.keio.ac.jp/"
+
+
+- name: Dept. of Applied Physics and Physico-Informatics
+  icon: fa-university
+  timeframe: 2017-2021
+  institution:
+    name: Keio University, Japan
+    url: "#"
+  lab:
+    name: Hyper Vision Research Laboratory (HVRL)
+    supervisor: Hideo Saito
+    url: "http://www.hvrl.ics.keio.ac.jp/"
+  extracurricularActivities:
+  - title: Keio University Yagami Tennis Team 
+    url: https://rikotaitenniskeio.wixsite.com/official-page
+  
+- name: 
+  icon: fa-school
+  timeframe: 2011-2017
+  institution:
+    name: Ferris Girls' Junior & Senior High School
+    url: https://www.ferris.ed.jp/

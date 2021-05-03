@@ -1,0 +1,48 @@
+baseURL: "https://llien30.github.io/"
+# canonifyurls: true
+languageCode: "en-us"
+
+title: "Llien"
+theme: "toha"
+
+Languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+Markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+Params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/llien30/llien30.github.io
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: true
+  markup:
+    goldmark:
+      renderer:
+        unsafe: true
+  
+  background: images/site/background3.png
+  logo:
+    main: images/site/icon.png
+    inverted: images/site/icon.png
+    favicon: images/site/icon.png
+  

@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  template: sections/skills.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+skills:
+- name: Programming
+  icon: fa-keyboard
+  items:
+    - Python
+    - JavaScript
+    - C/C++
+    - Nuxt.js (Vue.js)
+    - Django
+- name: Machine Learning
+  icon: fa-robot
+  items:
+    - Computer Vision
+    - Anomaly Detection
+    - Event Camera
+    - Federated Learning
+- name: Language
+  icon: fa-language
+  items:
+    - Japanese
+    - English
+- name: Sports
+  icon: fa-running
+  items:
+    - Tennis
+    - Golf
+    - Horse-Riding
+    - Swimming

@@ -1,0 +1,21 @@
+# section information
+section:
+  name: Publications
+  id: publication
+  template: sections/publications.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+publications:
+- name: International Conference
+  papers:
+    - title: Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera
+      authors: Mana Masuda, Ryo Hachiuma, Ryo Fujii, Hideo Saito
+      conf: ISVC2020
+      url: https://link.springer.com/chapter/10.1007%2F978-3-030-64559-5_48
+
+
+
