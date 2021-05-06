@@ -28,11 +28,7 @@
 
 .skill-box {
   display: flex;
-
-  /* 横並びに表示する */
   flex-direction: row;
-
-  /* 画面幅に収まらない場合は折り返す */
   flex-wrap: wrap;
 }
 .skill-item{
