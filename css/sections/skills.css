@@ -28,13 +28,22 @@
 
 .skill-box {
   display: flex;
+
+  /* 横並びに表示する */
+  flex-direction: row;
+
+  /* 画面幅に収まらない場合は折り返す */
   flex-wrap: wrap;
 }
-.skill-box li{
-  display: flex;
-  flex-wrap: wrap;
-  width: 20%;
-  margin: 0 auto 0 auto;
+.skill-item{
+  overflow: hidden;
+  width: 300px;
+  margin: 0, auto;
+  padding: 0.7rem;
+  padding-bottom: 0rem;
+  -webkit-flex-wrap: wrap;          /* Safari etc. */
+  -ms-flex-wrap    : wrap;          /* IE10        */
+  flex-wrap        : wrap;
 }
 .skill-icon {
   color: #248aaa !important;
