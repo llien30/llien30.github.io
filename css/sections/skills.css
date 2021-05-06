@@ -41,9 +41,6 @@
   margin: 0, auto;
   padding: 0.7rem;
   padding-bottom: 0rem;
-  -webkit-flex-wrap: wrap;          /* Safari etc. */
-  -ms-flex-wrap    : wrap;          /* IE10        */
-  flex-wrap        : wrap;
 }
 .skill-icon {
   color: #248aaa !important;
