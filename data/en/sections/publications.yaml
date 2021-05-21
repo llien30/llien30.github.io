@@ -13,9 +13,11 @@ publications:
 - name: International Conference
   papers:
     - title: Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera
-      authors: "**Mana Masuda**, Ryo Hachiuma, Ryo Fujii, Hideo Saito"
+      authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito"
       conf: ISVC2020
       url: https://link.springer.com/chapter/10.1007%2F978-3-030-64559-5_48
-
+    - title: Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder
+      authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito, Yusuke Sekikawa"
+      conf: ICIP2021
 
 

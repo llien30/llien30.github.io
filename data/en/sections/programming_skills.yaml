@@ -13,11 +13,11 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "I wrote over 10k lines of codes so far. I also know the detailed specifications."
+  summary: "I have been writing over 10k lines of codes so far. I also know the detailed specifications."
   url: "https://www.python.org/"
 - name: PyTorch
   logo: /images/sections/skills/pytorch.png
-  summary: "For my research in computer vision, I use PyTorch every day to implement models."
+  summary: "For my research in computer vision, I use PyTorch everyday to implement models."
   url: "https://pytorch.org/"
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -29,22 +29,22 @@ skills:
   url: "https://git-scm.com/"
 - name: JavaScript
   logo: /images/sections/skills/javascript.png
-  summary: "I use JavaScript for front-end development."
+  summary: "I use JavaScript for frontend development."
   url: ""
 - name: TypeScript
   logo: /images/sections/skills/typescript.png
-  summary: "I use TypeScript for front-end development."
+  summary: "I use TypeScript for frontend development. I am using this for my internship project."
   url: ""
 - name: Nuxt.js
   logo: /images/sections/skills/nuxt.png
-  summary: "I'm using nuxt.js for front-end development."
+  summary: "I use nuxt.js for frontend development. I am using this for my internship project."
   url: "https://ja.nuxtjs.org/"
 - name: Vue.js
   logo: /images/sections/skills/vue.png
-  summary: "I'm using vue.js for front-end development."
+  summary: "I use vue.js for frontend development."
   url: "https://jp.vuejs.org/index.html"
 - name: django
   logo: /images/sections/skills/django.png
-  summary: "I’m using django to develop web applications."
+  summary: "I use django to develop web applications."
   url: "https://www.djangoproject.com/"
 

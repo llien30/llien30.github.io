@@ -11,9 +11,7 @@ section:
 experiences:
 - company:
     name: Ridge-i Inc.
-    url: ""
-    # company overview
-    overview: 
+    url: https://ridge-i.com/
   positions:
   - designation: Internship
     start: Nov. 2019
@@ -36,3 +34,12 @@ experiences:
   - designation: Build@Mercari 2020
     start: Apr. 2020
     end: Jul. 2020
+
+- company:
+    name: NextGeM Inc.
+    url: https://www.nextgem.jp/
+  positions:
+  - designation: Internship
+    start: May. 2020
+    end: present
+
