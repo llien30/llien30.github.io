@@ -19,5 +19,8 @@ publications:
     - title: Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder
       authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito, Yusuke Sekikawa"
       conf: ICIP2021
+    - title: Unsupervised Anomaly Detection from Event Camera for Surveillance Monitoring
+      authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito, Yusuke Sekikawa"
+      conf: IEVC2021(oral)
 
 
