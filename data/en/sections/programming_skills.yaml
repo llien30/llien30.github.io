@@ -27,6 +27,9 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "I have experience in team development. I also use Git to manage the code for my research."
   url: "https://git-scm.com/"
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "I used SQL for big data analysis."
 - name: JavaScript
   logo: /images/sections/skills/javascript.png
   summary: "I use JavaScript for frontend development."

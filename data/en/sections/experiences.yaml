@@ -47,7 +47,15 @@ experiences:
     name: LINE CV Lab.
     url: 
   positions:
-  - designation: Internship
+  - designation: Research Internship
     start: Aug. 2021
     end: Sep. 2021
+
+- company:
+    name: Google Japan
+    url:
+  positions:
+  - designation: SWE Intern
+    start: Oct. 2021
+    end: Jan. 2022
 
