@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Experiences
+  name: Research & Work Experiences
   id: experiences
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -17,16 +17,6 @@ experiences:
     start: Nov. 2019
     end: Mar. 2020
 
-
-- company:
-    name: Google Japan
-    
-  positions:
-  - designation: STEP Development Course 2020
-    start: Apr. 2020
-    end: Jun. 2020
-
-
 - company:
     name: Mercari Inc.
     
@@ -34,20 +24,42 @@ experiences:
   - designation: Build@Mercari 2020
     start: Apr. 2020
     end: Jul. 2020
-
+    
 - company:
-    name: NextGeM Inc.
-    url: https://www.nextgem.jp/
+    name: Google Japan
+    
   positions:
-  - designation: Internship
-    start: May. 2020
-    end: present
+  - designation: STEP Development Course 2020
+    start: Apr. 2020
+    end: Jun. 2020
+  - designation: SWE Intern
+    start: Oct. 2021
+    end: Jan. 2022
 
+
+
+
+# - company:
+#     name: NextGeM Inc.
+#     url: https://www.nextgem.jp/
+#   positions:
+#   - designation: Internship
+#     start: May. 2020
+#     end: present
+
+# - company:
+#     name: LINE CVL
+#     url: 
+#   positions:
+#   - designation: Research Internship
+#     start: Aug. 2021
+#     end: Sep. 2021
+
+  
 - company:
-    name: LINE CV Lab.
+    name: LINE CVL
     url: 
   positions:
-  - designation: Internship
-    start: Aug. 2021
-    end: Sep. 2021
-
+  - designation: Research Internship
+    start: Aug. 2021 - Sep. 2021,  Feb. 2022
+    end: 

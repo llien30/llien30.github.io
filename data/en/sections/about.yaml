@@ -14,7 +14,7 @@ company:
   name: Keio University
   url: "https://www.keio.ac.jp/ja/"
 
-summary: 'I am a first-year master student majoring in Computer Science at Keio University. My research field is Computer Vision 👀'
+summary: 'I am a first-year master student (2021-) majoring in Computer Science at Keio University advised by Prof. [Hideo Saito](http://www.hvrl.ics.keio.ac.jp/).'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -39,15 +39,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green
 softSkills:
-- name: Fast Learner
-  percentage: 80
-  color: sky
-- name: Problem Solving
-  percentage: 80
-  color: orange
-- name: Hard Working
-  percentage: 80
-  color: green
-# - name: English
-#   percentage: 60
+# - name: Fast Learner
+#   percentage: 100
+#   color: sky
+# - name: Problem Solving
+#   percentage: 100
+#   color: orange
+# - name: Hard Working
+#   percentage: 100
 #   color: green
+# - name: Communication
+#   percentage: 100
+#   color: yellow

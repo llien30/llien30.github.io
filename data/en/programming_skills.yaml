@@ -13,20 +13,32 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "I have been writing over 10k lines of codes so far. I also know the detailed specifications."
+  summary: "I wrote over 50k lines of codes."
   url: "https://www.python.org/"
 - name: PyTorch
   logo: /images/sections/skills/pytorch.png
   summary: "For my research in computer vision, I use PyTorch everyday to implement models."
   url: "https://pytorch.org/"
+- name: TensorFlow
+  logo: /images/sections/skills/tensorflow.png
+  summary: "I use tensorflow for my research and used for internship."
+  url: "https://www.tensorflow.org/"
+- name: JAX
+  logo: /images/sections/skills/jax.png
+  summary: "I use jax for my research."
+  url: "https://github.com/google/jax"
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "Using as the main operating system. Capable of writing shell scripts."
   url: ""
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "I have experience in team development. I also use Git to manage the code for my research."
+  summary: "I have experience in team development. I also use Git to manage my code."
   url: "https://git-scm.com/"
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "I used SQL for internship."
+  url: ""
 - name: JavaScript
   logo: /images/sections/skills/javascript.png
   summary: "I use JavaScript for frontend development."

@@ -1,0 +1,13 @@
+section:
+  name: Other
+  id: others
+  template: sections/other.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+site:
+- title: LINE CVL Summer Intern Report 
+  url: https://engineering.linecorp.com/ja/blog/author/mana-masuda/
