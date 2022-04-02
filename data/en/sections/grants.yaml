@@ -1,0 +1,21 @@
+section:
+  name: Grants
+  id: grants
+  template: sections/grants.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+grants:
+  - name: Scholorship of Japan Stuednt Survices Organization
+    start: Apr. 2021
+    end: Mar. 2023
+    info:
+    url: https://www.jasso.go.jp/shogakukin/index.html
+  - name: JEES・ソフトバンクAI人材育成奨学金
+    start: Apr. 2021
+    end: Mar. 2022
+    info: This scholarship aims to support up to a hundred capable students studying Artificial Intelligence in Japan.
+    url: https://www.softbank.jp/corp/news/info/2020/20201016_01/
