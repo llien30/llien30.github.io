@@ -1,20 +1,25 @@
 section:
-  name: Grants
+  name: Awards & Grants
   id: grants
   template: sections/grants.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
+awards:
+  - name: MIRU Frontier Paper Award
+    date: Jul. 28, 2022
+    info: This award is for the paper that is leading-edge among the oral presentations at MIRU.
+    url: https://sites.google.com/view/miru2022/home/award?authuser=0
 grants:
-  - name: Scholorship of Japan Stuednt Survices Organization
+  - name: Scholarship of Japan Stuednt Survices Organization
     start: Apr. 2021
     end: Mar. 2023
     info:
     url: https://www.jasso.go.jp/shogakukin/index.html
-  - name: JEES・ソフトバンクAI人材育成奨学金
+  - name: JEES・Softbank AI Scholarship
     start: Apr. 2021
     end: Mar. 2022
     info: This scholarship aims to support up to a hundred capable students studying Artificial Intelligence in Japan.

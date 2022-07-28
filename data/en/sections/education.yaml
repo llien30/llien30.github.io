@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,7 +12,7 @@ section:
 degrees:
 - name: B.S. in Engineering
   icon: fa-graduation-cap
-  year: 2021
+  year: Mar. 2021
   timeframe: Apr. 2021 - Present
   institution:
     name: Keio University, Japan

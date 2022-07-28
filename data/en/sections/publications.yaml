@@ -12,6 +12,9 @@ section:
 publications:
 - name: International Conference
   papers:
+    - title: Novel View Synthesis for Surgical Recording
+      authors: "***Mana Masuda***, Hideo Saito, Yoshihumi Takatsume, Hiroki Kajita"
+      conf: MICCAI DGM4 2022 Workshop
     - title: Neural Implicit Event Generator for Motion Tracking
       authors: "***Mana Masuda***†, Yusuke Sekikawa†, Ryo Fujii, Hideo Saito (†equal contribution)"
       conf: ICRA2022 (Acceptance Rate 43.1%)
@@ -21,7 +24,14 @@ publications:
     - title: Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder
       authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito, Yusuke Sekikawa"
       conf: ICIP2021
+      url: http://hvrl.ics.keio.ac.jp/paper/pdf/international_Conference/2021/ICIP2021_masuda.pdf
     - title: Unsupervised Anomaly Detection of the First Person in Gait from an Egocentric Camera
       authors: "***Mana Masuda***, Ryo Hachiuma, Ryo Fujii, Hideo Saito"
       conf: ISVC2020
       url: https://link.springer.com/chapter/10.1007%2F978-3-030-64559-5_48
+- name: Domestic Conference
+  papers:
+    - title: "Event-Based Camera Pose Tracking via |∇t NeRF - Event|"
+      authors: "***Mana Masuda***, Yusuke Sekikawa, Hideo Saito"
+      conf: MIRU2022 (Long Oral, Acceptance Rate 18.97%)
+      

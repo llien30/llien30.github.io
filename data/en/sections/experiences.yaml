@@ -3,7 +3,7 @@ section:
   name: Research & Work Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -32,7 +32,7 @@ experiences:
   - designation: STEP Development Course 2020
     start: Apr. 2020
     end: Jun. 2020
-  - designation: SWE Intern
+  - designation: SWE Intern at Geo Team
     start: Oct. 2021
     end: Jan. 2022
 
@@ -62,4 +62,12 @@ experiences:
   positions:
   - designation: Research Internship
     start: Aug. 2021 - Sep. 2021,  Feb. 2022
+    end: Jun. 2022
+
+- company:
+    name: Denso IT Laboratory
+    url: https://www.d-itlab.co.jp/
+  positions:
+  - designation: Coorporative Research
+    start: Oct. 2020
     end: 
