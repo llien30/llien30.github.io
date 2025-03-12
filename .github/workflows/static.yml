@@ -36,6 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
+        include-hidden-files: true
           # Upload entire repository
           path: '.'
       - name: Deploy to GitHub Pages
